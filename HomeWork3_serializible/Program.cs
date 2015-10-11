@@ -10,7 +10,6 @@ namespace HomeWork3_serializible
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
             new Menu().Show();
         }
     }
